@@ -1,6 +1,6 @@
-## Fall-AI-Studio-Project
+## Sprinternship 2025
 ## Table of Contents
-  - Project Overview
+  - [Project Overview](https://github.com/JasmineH12/Sprinternship?tab=readme-ov-file#pid-equipment-data-chatbot-web-application)
   - Objectives
   - Goals
   - Methodology
